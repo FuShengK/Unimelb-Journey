@@ -1,0 +1,4 @@
+At each timer, I check if no repeated id, I print non-locking process, 
+and make sure no same files at each execution.
+My method can avoid checking same file again by filtering out visited id.
+Time Complexity is lower than log(n * n)

@@ -1,0 +1,9 @@
+*.o
+*.sh
+server
+.vscode
+
+*.html
+*.css
+*.js
+*.jpg
